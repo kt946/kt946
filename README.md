@@ -6,7 +6,7 @@ Check out my works and contact information. I’m happy to connect with you!
 
 ## Fun facts ⚡
 - I am the tallest person in my family ❗
-- I enjoy cooking and discovering new recipies 🔪 🥘
+- I enjoy cooking and discovering new recipies 🍳
 - I like to exercise 🏃‍♂️
 - I am a casual PC gamer 🎮
 - I like playing guitar 🎸
