@@ -1,4 +1,22 @@
-### Hi there 👋
+# Hello World! 👋 I’m Kyle! Nice to meet you! 😉
+
+I am a full stack web developer based in New Jersey with a B.A. in Psychology from Rutgers University and a passion for technology and learning. I am currently pursuing a certificate in Full Stack Web Development from the Rutgers Coding Bootcamp. Since then, I have expanded my skills and knowledge in both front-end and back-end technologies to build user-friendly web applications with streamlined functionality and attention to detail. As a creative and versatile problem-solver, I am able to quickly learn new languages and technologies and collaborate with teams to design and produce applications efficiently that exceed clients’ expectations. I’m eager to demonstrate my newly acquired skills and build innovative applications to benefit the tech industry and inspire the next generation of developers!
+
+Check out my works and contact information. I’m happy to connect with you! 
+
+## Fun facts ⚡
+- I am the tallest person in my family ❗
+- I enjoy cooking and discovering new recipies 🔪 🥘
+- I like to exercise 🏃‍♂️
+- I enjoy fantasy novels and D&D 📖 🐲
+- I am a casual PC gamer 🎮
+- I like playing guitar 🎸
+- I like Star Wars ✨ and Spiderman 🕸
+
+## Links 📫
+- [LinkedIn](https://www.linkedin.com/in/kyle-tang-/)
+- [Portfolio](https://kt946.github.io/my-portfolio/)
+- Email: ktang1151@gmail.com
 
 <!--
 **kt946/kt946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
