@@ -8,10 +8,8 @@ Check out my works and contact information. I’m happy to connect with you!
 - I am the tallest person in my family ❗
 - I enjoy cooking and discovering new recipies 🔪 🥘
 - I like to exercise 🏃‍♂️
-- I enjoy fantasy novels and D&D 📖 🐲
 - I am a casual PC gamer 🎮
 - I like playing guitar 🎸
-- I like Star Wars ✨ and Spiderman 🕸
 
 ## Links 📫
 - Email: ktang1151@gmail.com
