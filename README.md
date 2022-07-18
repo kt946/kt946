@@ -14,9 +14,10 @@ Check out my works and contact information. I’m happy to connect with you!
 - I like Star Wars ✨ and Spiderman 🕸
 
 ## Links 📫
+- Email: ktang1151@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/kyle-tang-/)
 - [Portfolio](https://kt946.github.io/my-portfolio/)
-- Email: ktang1151@gmail.com
+
 
 <!--
 **kt946/kt946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
