@@ -11,9 +11,9 @@ Check out my works and contact information. I’m happy to connect with you!
 - I like playing guitar 🎸
 
 ## Links 📫
-- [Email](ktang1151@gmail.com)
+- [Portfolio](https://www.kyletang.dev/)
 - [LinkedIn](https://www.linkedin.com/in/kyle-tang-/)
-- [Portfolio](https://kt946.github.io/my-portfolio-react/)
+- [Email](mailto:ktang1151@gmail.com)
 
 
 <!--
