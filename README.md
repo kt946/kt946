@@ -1,3 +1,5 @@
+![personal-banner](https://user-images.githubusercontent.com/103476893/214656842-2bea41eb-ab40-49a3-a484-a9fad82f693c.png)
+
 # Hello World! 👋 I’m Kyle! Nice to meet you! 😉
 
 I'm a full stack web developer with a B.A. in Psychology from Rutgers University and a passion for technology, creativity, and learning. Completed a certificate in Full Stack Web Development from the Rutgers University's Coding Bootcamp. Experienced in both front-end and back-end technologies such as HTML, CSS, JavaScript, React, and MERN stack. As a versatile quick learner and problem-solver, I'm able to collaborate with teams in fast-paced settings to design innovative projects that exceed expectations. Eager to demonstrate my newly acquired skills and build innovative applications that help me grow as a developer and provide users with immersive web experiences.
