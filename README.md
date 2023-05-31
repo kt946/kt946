@@ -6,6 +6,21 @@ I'm a full stack web developer with a B.A. in Psychology from Rutgers University
 
 Check out my works and contact information. I’m happy to connect with you! 
 
+## Languages and Skills 🖥️
+
+<img src="https://github.com/kt946/kt946/assets/103476893/008fbaed-f690-4b37-b571-bfb9139e9e7a" alt="HTML logo" title="HTML" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/26f4e703-dcbe-4e39-8e2a-e1d268026b11" alt="CSS logo" title="CSS" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/b6838ee8-0b88-4f43-8181-21488a6661ef" alt="JavaScript logo" title="JavaScript" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/7780db38-17f0-46e4-ba18-06fcc5df8ac2" alt="NodeJS logo" title="NodeJS" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/d4f5c96a-4e0a-4890-af7b-6cddb67cab83" alt="MySQL logo" title="MySQL" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/f788189e-8e29-469c-8d4a-e9cbcd0839d5" alt="MongoDB logo" title="MongoDB" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/a0487a87-a4d4-40e3-a7c1-c351fc01dae2" alt="React logo" title="React" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/f77d3bbf-1325-4f74-8e59-fde71e5accb6" alt="Tailwind CSS logo" title="Tailwind CSS" width="100">
+
+## Certifications ⭐
+
+![Rutgers Coding Cert - Tang](https://github.com/kt946/kt946/assets/103476893/d4c28b37-032a-40c1-bbe9-52445648be0c)
+
 ## Fun facts ⚡
 - I enjoy cooking and discovering new recipies 🍳
 - I like to exercise 🏃‍♂️
