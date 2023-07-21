@@ -19,7 +19,10 @@ Check out my works and contact information. I’m happy to connect with you!
 
 ## Certifications ⭐
 
-![Rutgers Coding Cert - Tang](https://github.com/kt946/kt946/assets/103476893/d4c28b37-032a-40c1-bbe9-52445648be0c)
+![Rutgers Coding Cert - Tang](https://github.com/kt946/kt946/assets/103476893/d4c28b37-032a-40c1-bbe9-52445648be0c "Full-Stack Web Development Certificate Rutgers Coding Bootcamp")
+
+![Coursera Google Cybersecurity Certificate - Tang](https://github.com/kt946/kt946/assets/103476893/bc6abc35-6eeb-4283-bf80-2f32c5c055b8 "Google Cybersecurity Certificate Coursera")
+
 
 ## Fun facts ⚡
 - I enjoy cooking and discovering new recipies 🍳
