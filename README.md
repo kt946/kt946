@@ -8,14 +8,16 @@ Check out my works and contact information. I’m happy to connect with you!
 
 ## Languages and Skills 🖥️
 
-<img src="https://github.com/kt946/kt946/assets/103476893/008fbaed-f690-4b37-b571-bfb9139e9e7a" alt="HTML logo" title="HTML" width="100">
-<img src="https://github.com/kt946/kt946/assets/103476893/26f4e703-dcbe-4e39-8e2a-e1d268026b11" alt="CSS logo" title="CSS" width="100">
-<img src="https://github.com/kt946/kt946/assets/103476893/b6838ee8-0b88-4f43-8181-21488a6661ef" alt="JavaScript logo" title="JavaScript" width="100">
-<img src="https://github.com/kt946/kt946/assets/103476893/7780db38-17f0-46e4-ba18-06fcc5df8ac2" alt="NodeJS logo" title="NodeJS" width="100">
-<img src="https://github.com/kt946/kt946/assets/103476893/d4f5c96a-4e0a-4890-af7b-6cddb67cab83" alt="MySQL logo" title="MySQL" width="100">
-<img src="https://github.com/kt946/kt946/assets/103476893/f788189e-8e29-469c-8d4a-e9cbcd0839d5" alt="MongoDB logo" title="MongoDB" width="100">
-<img src="https://github.com/kt946/kt946/assets/103476893/a0487a87-a4d4-40e3-a7c1-c351fc01dae2" alt="React logo" title="React" width="100">
-<img src="https://github.com/kt946/kt946/assets/103476893/f77d3bbf-1325-4f74-8e59-fde71e5accb6" alt="Tailwind CSS logo" title="Tailwind CSS" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/e37d2102-8c26-4cee-9ca0-026926b2af1b" alt="Git Logo" title="Git" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/3bb26a8d-c816-4219-be18-a5967fc94bca" alt="HTML Logo" title="HTML" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/153445a1-abf9-45e2-bbda-38fa6f81cdb6" alt="CSS Logo" title="CSS" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/75487117-7a04-4e31-a9ac-43270d60c98f" alt="JavaScript Logo" title="JavaScript" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/8fb7f901-c38e-47d3-b0b3-69b91607b80e" alt="NodeJS Logo" title="NodeJS" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/94d597e3-4fda-43df-b781-b0237836cc51" alt="MySQL Logo" title="MySQL" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/1eac454f-8f22-48a0-9f1c-4200b9f5c00c" alt="MongoDB Logo" title="MongoDB" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/a0487a87-a4d4-40e3-a7c1-c351fc01dae2" alt="React Logo" title="React" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/e4a3b572-b7fa-4da7-9883-945e7c45397f" alt="Tailwind CSS Logo" title="Tailwind CSS" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/7d1a30a3-839a-4e77-8b23-f1dea261cc30" alt="Next.js Logo" title="Next.js" width="100">
 
 ## Certifications ⭐
 
