@@ -16,8 +16,8 @@ Check out my works and contact information. I’m happy to connect with you!
 <img src="https://github.com/kt946/kt946/assets/103476893/94d597e3-4fda-43df-b781-b0237836cc51" alt="MySQL Logo" title="MySQL" width="100">
 <img src="https://github.com/kt946/kt946/assets/103476893/1eac454f-8f22-48a0-9f1c-4200b9f5c00c" alt="MongoDB Logo" title="MongoDB" width="100">
 <img src="https://github.com/kt946/kt946/assets/103476893/a0487a87-a4d4-40e3-a7c1-c351fc01dae2" alt="React Logo" title="React" width="100">
-<img src="https://github.com/kt946/kt946/assets/103476893/e4a3b572-b7fa-4da7-9883-945e7c45397f" alt="Tailwind CSS Logo" title="Tailwind CSS" width="100">
-<img src="https://github.com/kt946/kt946/assets/103476893/7d1a30a3-839a-4e77-8b23-f1dea261cc30" alt="Next.js Logo" title="Next.js" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/8e8b1087-ed8c-407f-8ad4-f5ec443e0a3c" alt="Tailwind CSS Logo" title="Tailwind CSS" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/0737d966-4cec-4274-90cc-3f6603af1587" alt="Next.js Logo" title="Next.js" width="100">
 
 ## Certifications ⭐
 
