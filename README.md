@@ -18,6 +18,7 @@ Check out my works and contact information. I’m happy to connect with you!
 <img src="https://github.com/kt946/kt946/assets/103476893/a0487a87-a4d4-40e3-a7c1-c351fc01dae2" alt="React Logo" title="React" width="100">
 <img src="https://github.com/kt946/kt946/assets/103476893/8e8b1087-ed8c-407f-8ad4-f5ec443e0a3c" alt="Tailwind CSS Logo" title="Tailwind CSS" width="100">
 <img src="https://github.com/kt946/kt946/assets/103476893/0737d966-4cec-4274-90cc-3f6603af1587" alt="Next.js Logo" title="Next.js" width="100">
+<img src="https://github.com/kt946/kt946/assets/103476893/d29b55d4-8b02-4f43-afe6-f78714c6d4db" alt="Python Logo" title="Python" width="100">
 
 ## Certifications ⭐
 
