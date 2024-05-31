@@ -29,6 +29,8 @@ Check out my verified achievements!
 <!-- Be the author, not the plagiarist. -->
 <!-- 剽窃者ではなく、著者になりましょう。 -->
 
+<!-- Images are watermarked to deter sniveling little thieves ☠️ -->
+
 ![Rutgers Coding Cert - Tang](https://github.com/kt946/kt946/assets/103476893/de43121c-4eaa-4f96-af19-2e668b463d62 "Full-Stack Web Development Certificate Rutgers Coding Bootcamp")
 
 ![Coursera Google Cybersecurity Certificate - Tang](https://github.com/kt946/kt946/assets/103476893/f9a87746-adaf-481f-b4e7-11fa1885eebc "Google Cybersecurity Certificate Coursera")
