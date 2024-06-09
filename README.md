@@ -1,4 +1,4 @@
-![personal-banner](https://github.com/kt946/kt946/assets/103476893/2d15ce71-641a-4ffe-b04b-7b65da1cf0f0 "Personal Banner")
+![personal-banner](https://github.com/kt946/kt946/assets/103476893/3da695bc-3807-4274-abee-88469e6b9649 "Personal Banner")
 
 # Hello World! 👋 I’m Kyle! Nice to meet you! 😉
 
