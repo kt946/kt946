@@ -25,17 +25,6 @@ Check out my works and contact information. I’m happy to connect with you!
 Check out my verified achievements!
 
 - [Rutgers Coding Bootcamp](https://www.credly.com/badges/e89859c2-a106-4df0-a159-60c8477c0c23)
-- [Google Cybersecurity](https://www.credly.com/badges/d5bf2812-6263-42c4-bda3-6033b73020af)
-
-<!-- Be the author, not the plagiarist. -->
-<!-- 剽窃者ではなく、著者になりましょう。 -->
-
-<!-- Images are watermarked to deter sniveling little thieves ☠️ -->
-
-![Rutgers Coding Cert - Tang](https://github.com/kt946/kt946/assets/103476893/de43121c-4eaa-4f96-af19-2e668b463d62 "Full-Stack Web Development Certificate Rutgers Coding Bootcamp")
-
-![Coursera Google Cybersecurity Certificate - Tang](https://github.com/kt946/kt946/assets/103476893/f9a87746-adaf-481f-b4e7-11fa1885eebc "Google Cybersecurity Certificate Coursera")
-
 
 ## Fun facts ⚡
 - I enjoy cooking and discovering new recipies 🍳
