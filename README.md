@@ -6,7 +6,7 @@ I'm a full stack web developer with a B.A. in Psychology from Rutgers University
 
 Check out my works and contact information. I’m happy to connect with you! 
 
-## Languages and Skills 🖥️
+## Tech Stack 🖥️
 
 <img src="https://github.com/kt946/kt946/assets/103476893/e37d2102-8c26-4cee-9ca0-026926b2af1b" alt="Git Logo" title="Git" width="100">
 <img src="https://github.com/kt946/kt946/assets/103476893/3bb26a8d-c816-4219-be18-a5967fc94bca" alt="HTML Logo" title="HTML" width="100">
