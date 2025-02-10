@@ -26,12 +26,6 @@ Check out my verified achievements!
 
 - [Rutgers Coding Bootcamp](https://www.credly.com/badges/e89859c2-a106-4df0-a159-60c8477c0c23)
 
-## Fun facts ⚡
-- I enjoy cooking and discovering new recipies 🍳
-- I like to exercise 🏃‍♂️
-- I am a casual PC gamer 🎮
-- I like playing guitar 🎸
-
 ## Links 📫
 - [Portfolio](https://www.kyletang.dev/)
 - [LinkedIn](https://www.linkedin.com/in/kyle-tang-/)
